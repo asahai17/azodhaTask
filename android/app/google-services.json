@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126632991727",
+    "project_id": "azodha-task-12263",
+    "storage_bucket": "azodha-task-12263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126632991727:android:a3e5eed52a99f0d8f1341a",
+        "android_client_info": {
+          "package_name": "com.azo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGCU4UvSK3Z95IR7juN8AzA7AuyRKG1t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126632991727:android:34b8e75d1b1530d4f1341a",
+        "android_client_info": {
+          "package_name": "com.example.azodha_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGCU4UvSK3Z95IR7juN8AzA7AuyRKG1t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
